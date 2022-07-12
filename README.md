@@ -35,11 +35,3 @@ If you are successful, you should see an animation:
 ![image](https://user-images.githubusercontent.com/39423448/178403151-861b618d-bc9f-49fa-91a7-a2e3efeb53a4.png)
 ![image](https://user-images.githubusercontent.com/39423448/178403166-391badd3-c8b2-4971-97c4-91b62d6a1ad4.png)
 ![image](https://user-images.githubusercontent.com/39423448/178403175-67626882-bea3-4126-9895-aceb70d29a41.png)
-
-The independent MAPF solver plans for all agents independently.py Their paths do not collide with
-the environment but are allowed to collide with the paths of the other agents. Thus, there is a
-collision when the blue agent 1 stays at its goal cell while the green agent 0 moves on top of it. In
-your animation, both agents turn red when this happens, and a warning is printed on the terminal
-notifying you about the details of the collision.
-Try to understand the independent MAPF solver in independent.py. The first part defines the
-class IndependentSolver and its constructor:
