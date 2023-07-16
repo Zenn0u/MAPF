@@ -9,17 +9,6 @@ This project requires a Python 3 installation with the numpy and matplotlib pack
 On Mac OS X, download Anaconda 2019.03 with Python 3.7 from https://www.anaconda.com/distribution/#download-section and follow the installer. You can verify your installation by
 using:
 
-```python3 --version```
-
-It may be necessary to use "pythonw" instead depending on the particular version of Mac OS X.
-On Windows, download Anaconda 2019.03 with Python 3.7 from https://www.anaconda.com/
-distribution/#download-section.
-On Ubuntu Linux and Mac OS X, use python3 to run python. On Windows, use python instead.
-You can use a plain text editor for the project. If you would like to use an IDE, we recommend that
-you download PyCharm from https://www.jetbrains.com/pycharm/. The free community edition
-succesfully, but you can get the professional edition for free as well, see https://www.jetbrains.
-com/student/ for details.
-
 ## 0.2 Installing the MAPF Software
 Download the archive with the provided MAPF software and extract it on your computer.
 
